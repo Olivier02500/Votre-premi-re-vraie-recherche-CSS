@@ -1,0 +1,23 @@
+h1 {
+    text-align: center;
+    font:italic 29px/20px monospace ;
+    color: grey;
+}
+
+p {
+    font:15px/1 monospace, sans-serif ;
+    text-shadow:1px 1px 5px #62cbb6;
+    letter-spacing: -1px;
+}
+
+p span {
+    font:18px/1  monospace, sans-serif condensed;
+    color: #8b31e0;
+    text-shadow:2px 2px 3px #1a735b;
+    letter-spacing: 1px;
+    background-color: darkkhaki;
+}
+
+div {
+    background-color: bisque;
+}
